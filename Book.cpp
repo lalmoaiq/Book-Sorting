@@ -1,6 +1,4 @@
-/*
-Lamar Almoaiqel and Classmate
-*/
+//Co-worked with classmate
 
 #include <string>
 #include <iostream>
